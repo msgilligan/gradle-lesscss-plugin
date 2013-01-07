@@ -2,9 +2,16 @@ gradle-lesscss-plugin
 =====================
 Gradle plugin for LESS CSS
 
+
+Sample
+------
+There is a seperate GitHub repo [gradle-lesscss-sample](https://github.com/msgilligan/gradle-lesscss-sample) that contains a sample Gradle build using this plugin.  See the README.md file in that project for complete instructions on how to build, install, and use this plugin.
+
 Installing
 ----------
-Eventually you'll be able to install this (or another Gradle LESSCSS plugin) from a Maven repo, but for now you'll have to build it yourself.
+Eventually you'll be able to install this (or another Gradle LESSCSS plugin) from a Maven repo, but for now you'll have to build it yourself and install into your local Maven repo:
+
+    gradle install
 
 Building
 --------
