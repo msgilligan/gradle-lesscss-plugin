@@ -44,6 +44,37 @@ This plugin is based upon source code e-mailed to me (with Apache 2 license in t
 
 Alternatives
 ------------
-There is another [Gradle LESS CSS Plugin](https://github.com/koenongena/lesscss-gradle-plugin) on GitHub but it has no license, no documentation, an empty readme and has had no commits for 7 months.  It uses [lesscss-java](https://github.com/koenongena/lesscss-gradle-plugin).
+When I created this repository there was only one other Gradle LESS CSS plugin out there.  Now there are a handful.
 
+* [gradle-less-plugin](https://bitbucket.org/davidmc24/gradle-less-plugin/) davidmc24 Bitbucket
+
+    Engine: [lesscss-java](https://github.com//lesscss-gradle-plugin)
+
+    License: ASL 2.0
+
+    Published: Bintray
+
+* [gradle-lesscss-plugin](https://github.com/obecker/gradle-lesscss-plugin) obecker github
+
+    Engine: Rhino + less-rhino-1.3.3.js
+
+    License: ASL 2.0
+
+    Published: Maven Central
+
+* [gradle-less-plugin](https://github.com/skhome/gradle-less-plugin) skhome github
+
+    Engine: lesscss-java
+
+    License: WTFPL
+
+    Not Published
+
+* [lesscss-gradle-plugin](https://github.com/koenongena/lesscss-gradle-plugin) koenongena github
+
+    Engine: lesscss-java
+
+    License: ?
+
+    Not Published
 
